@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Swatin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Swatin\\.nuget\\packages"
+    ]
+  }
+}
